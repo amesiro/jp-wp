@@ -1,0 +1,24 @@
+[24-May-2024 08:12:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/functions.php:30
+Stack trace:
+#0 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/index.php(4): pageBanner(Array)
+#1 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-includes/template-loader.php(106): include('/Users/qscgy571...')
+#2 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-blog-header.php(19): require_once('/Users/qscgy571...')
+#3 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/index.php(17): require('/Users/qscgy571...')
+#4 {main}
+  thrown in /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/functions.php on line 30
+[24-May-2024 09:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/functions.php:30
+Stack trace:
+#0 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/index.php(4): pageBanner(Array)
+#1 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-includes/template-loader.php(106): include('/Users/qscgy571...')
+#2 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-blog-header.php(19): require_once('/Users/qscgy571...')
+#3 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/index.php(17): require('/Users/qscgy571...')
+#4 {main}
+  thrown in /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/functions.php on line 30
+[24-May-2024 09:26:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/functions.php:30
+Stack trace:
+#0 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/index.php(4): pageBanner(Array)
+#1 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-includes/template-loader.php(106): include('/Users/qscgy571...')
+#2 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-blog-header.php(19): require_once('/Users/qscgy571...')
+#3 /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/index.php(17): require('/Users/qscgy571...')
+#4 {main}
+  thrown in /Users/qscgy5713/Local Sites/fictional-university-joshua/app/public/wp-content/themes/fictional-university-theme/functions.php on line 30
